@@ -1,8 +1,8 @@
 # Jobs
 # Shoptocat
-- company: GitHub, Inc.
-  position: Shoptocat
-  duration: March, 2013 &mdash; Present
+- company: Digtial Ocean, Inc.
+  occupation: Maintainer
+  duration: March, 2017 &mdash
   summary: Create awesome swag, ensure orders get delivered quickly, collect all the stickers.
 
 # Job Title
@@ -10,6 +10,51 @@
   position: Web Developer
   duration: May, 2014 &mdash; May, 2015
   summary: Web developer for a restuarant meat provider.
+
+
+# Supportocat
+- company: GitHub, Inc.
+  position: Supportocat, GitHub for Business
+  duration:  October 2016 &mdash; Present
+  summary: Provide amazing support to customers on the GitHub for Business platform
+  
+  # Supportocat
+- company: GitHub, Inc.
+  position: Supportocat, GitHub for Business
+  duration:  October 2016 &mdash; Present
+  summary: Provide amazing support to customers on the GitHub for Business platform
+  
+  award: Speaker at GitHub Universe
+  organization: GitHub
+  year: 2016
+  summary: Chosen to speak at GitHub Universe on Open Source in Underrepresented Communities
+
+- award: Dean's List
+  organization: University of South Florida
+  year: 2014
+  summary: Awarded the Dean's List after graduating with a cumulative 3.60 GPA.
+  
+  award: Speaker at GitHub Universe
+  organization: GitHub
+  year: 2016
+  summary: Chosen to speak at GitHub Universe on Open Source in Underrepresented Communities
+
+- award: Dean's List
+  organization: University of South Florida
+  year: 2014
+  summary: Awarded the Dean's List after graduating with a cumulative 3.60 GPA.
+  
+  # Supportocat
+- company: GitHub, Inc.
+  position: Supportocat, GitHub for Business
+  duration:  October 2016 &mdash; Present
+  summary: Provide amazing support to customers on the GitHub for Business platform
+  
+  # Supportocat
+- company: GitHub, Inc.
+  position: Supportocat, GitHub for Business
+  duration:  October 2016 &mdash; Present
+  summary: Provide amazing support to customers on the GitHub for Business platform
 
 
 # Supportocat
